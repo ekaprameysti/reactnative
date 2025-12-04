@@ -26,7 +26,7 @@ Visualisasi spasial seluruh titik lokasi yang tersimpan dalam bentuk peta intera
 Aplikasi ini dibangun menggunakan teknologi modern untuk memastikan performa yang cepat dan kompatibilitas lintas platform (Android & iOS).
 
 * **Framework:** [React Native](https://reactnative.dev/) dengan [Expo](https://expo.dev/) (SDK 52).
-* **Bahasa Pemrograman:** TypeScript.
+* **Bahasa Pemrograman:** TypeScript dan JavaScript.
 * **Navigasi:** Expo Router (File-based routing).
 * **Backend & Database:** [Firebase Realtime Database](https://firebase.google.com/) (untuk penyimpanan data lokasi dan user).
 * **Peta & Lokasi:**
@@ -72,11 +72,11 @@ Berikut adalah tampilan antarmuka aplikasi Banara:
 
 * **Tab Location:**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd1a61b9-bb31-46fb-9ff4-638fa6ade8f6" width="170" />
-  <img src="https://github.com/user-attachments/assets/0dca7e56-ee58-4233-a372-11e0c9be4847" width="170" />
-  <img src="https://github.com/user-attachments/assets/cfb5af2e-b96e-4213-b971-d5bbaff08a4a" width="170" />
-  <img src="https://github.com/user-attachments/assets/8ec6fcb3-9ee3-4023-93e0-74ebc3f130d7" width="170" />
-  <img src="https://github.com/user-attachments/assets/b0827afc-f50c-4b1c-893d-9343e57cdb06" width="170" />
+  <img src="https://github.com/user-attachments/assets/bd1a61b9-bb31-46fb-9ff4-638fa6ade8f6" width="270" />
+  <img src="https://github.com/user-attachments/assets/0dca7e56-ee58-4233-a372-11e0c9be4847" width="270" />
+  <img src="https://github.com/user-attachments/assets/cfb5af2e-b96e-4213-b971-d5bbaff08a4a" width="270" />
+  <img src="https://github.com/user-attachments/assets/8ec6fcb3-9ee3-4023-93e0-74ebc3f130d7" width="270" />
+  <img src="https://github.com/user-attachments/assets/b0827afc-f50c-4b1c-893d-9343e57cdb06" width="270" />
 </p>
 
 * **Tab Map:** 
