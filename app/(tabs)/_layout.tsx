@@ -26,8 +26,33 @@ export default function TabLayout() {
       <Tabs.Screen
         name="explore"
         options={{
-          title: 'Explore',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+          title: 'Visitor',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="user.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="mahasiswa"
+        options={{
+          title: 'Destination',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="gmap.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="lokasi"
+        options={{
+          title: 'Location',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="location.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="gmap"
+        options={{
+          title: 'Map',
+          tabBarIcon: ({ color }) => <IconSymbol
+            size={28}
+            name="map.fill"
+            color={color}
+          />,
         }}
       />
     </Tabs>
